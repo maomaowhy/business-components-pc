@@ -15,7 +15,8 @@
     "unplugin-auto-import": "^0.18.2",
     "unplugin-vue-components": "^0.27.3",
     "vue": "^3.4.29",
-    "vue-router": "^4.3.3"
+    "vue-router": "^4.3.3",
+    "vue-tsc": "^2.0.29"
   },
   "devDependencies": {
     "@rushstack/eslint-patch": "^1.8.0",
